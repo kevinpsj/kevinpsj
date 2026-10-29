@@ -10,5 +10,5 @@ Backend engineer interested in building systems that are **reliable, scalable, a
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp,docker,kubernetes,linux&theme=light" />
 </p>
